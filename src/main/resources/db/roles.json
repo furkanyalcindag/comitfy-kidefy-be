@@ -1,0 +1,34 @@
+[
+  {
+    "name": "ADMIN",
+    "isStaff": false
+  },
+  {
+    "name": "user",
+    "isStaff": false
+  },
+  {
+    "name": "Planlama",
+    "isStaff": true
+  },
+  {
+    "name": "Üretim",
+    "isStaff": true
+  },
+  {
+    "name": "Depo",
+    "isStaff": true
+  },
+  {
+    "name": "Kalite Kontrol",
+    "isStaff": true
+  },
+  {
+    "name": "Test",
+    "isStaff": true
+  },
+  {
+    "name": "Teslimat",
+    "isStaff": true
+  }
+]

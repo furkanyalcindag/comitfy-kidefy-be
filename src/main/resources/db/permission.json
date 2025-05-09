@@ -1,0 +1,104 @@
+[
+  {
+    "moduleId": 1,
+    "authCode": "1000",
+    "authName": "Kalite Kontrol Dashboard",
+    "authDescription": "Kalite Kontrol Dashboard"
+  },
+  {
+    "moduleId": 2,
+    "authCode": "2000",
+    "authName": "Depo Dashboard",
+    "authDescription": "Depo Dashboard"
+  },
+  {
+    "moduleId": 3,
+    "authCode": "3000",
+    "authName": "Planlama Dashboard",
+    "authDescription": "Planlama Dashboard"
+  },
+  {
+    "moduleId": 4,
+    "authCode": "4000",
+    "authName": "Üretim Dashboard",
+    "authDescription": "Üretim Dashboard"
+  },
+  {
+    "moduleId": 5,
+    "authCode": "5000",
+    "authName": "Test Dashboard",
+    "authDescription": "Test Dashboard"
+  },
+  {
+    "moduleId": 6,
+    "authCode": "6000",
+    "authName": "Permission.WorkOrder.Save",
+    "authDescription": "İş Emirleri Oluşturulur."
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7000",
+    "authName": "Permission.WorkOrder.GetWorkOrdersByUser",
+    "authDescription": "Kişiye Göre İş Emirleri Getirilmesi"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7001",
+    "authName": "Permission.WorkOrder.Get",
+    "authDescription": "İş Emrine git denildiğinde gelen bilgiler"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7002",
+    "authName": "Permission.WorkOrder.Put",
+    "authDescription": "İş Emrine git denildiğinde gelen bilgiler"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7003",
+    "authName": "Permission.WorkOrder.WorkOrderRouteUpdateStaff",
+    "authDescription": "iş emrine ait kullanıcı atamaları düzenlenmesi"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7004",
+    "authName": "Permission.WorkOrder.SaveRoutes",
+    "authDescription": "iş emrine kullanıcı atama postu"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7005",
+    "authName": "Permission.WorkOrder.WorkOrderImportExcel",
+    "authDescription": "iş emrine bomkit listesi yükleme"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7006",
+    "authName": "Permission.WorkOrder.WorkOrderSaveDocument",
+    "authDescription": "iş emrine üretim dokümanı ekleme"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7007",
+    "authName": "Permission.WorkOrder.WorkOrderStartToProduction",
+    "authDescription": "iş emrini üretime gönderme"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7008",
+    "authName": "Permission.WorkOrder.Delete",
+    "authDescription": "iş emri silme"
+  },
+  {
+    "moduleId": 7,
+    "authCode": "7009",
+    "authName": "Permission.WorkOrder.Delete",
+    "authDescription": "iş emri silme"
+  },
+  {
+    "moduleId": 9,
+    "authCode": "9000",
+    "authName": "Permission.Settings.All",
+    "authDescription": "Ayarlar menülerinde listeleme"
+  }
+]

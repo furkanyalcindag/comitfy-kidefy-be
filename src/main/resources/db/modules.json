@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "topId": null,
+    "title": "Kalite Kontrol Ana Sayfa",
+    "icon": "tabler-smart-home",
+    "targetPath": "dashboard-kalite-kontrol",
+    "manualId": 10
+  },
+  {
+    "id": 2,
+    "topId": null,
+    "title": "Depo Ana Sayfa",
+    "icon": "tabler-smart-home",
+    "targetPath": "dashboard-depo",
+    "manualId": 20
+  },
+  {
+    "id": 3,
+    "topId": null,
+    "title": "Planlama Ana Sayfa",
+    "icon": "tabler-smart-home",
+    "targetPath": "dashboard-planlama",
+    "manualId": 30
+  },
+  {
+    "id": 4,
+    "topId": null,
+    "title": "Üretim Ana Sayfa",
+    "icon": "tabler-smart-home",
+    "targetPath": "dashboard-uretim",
+    "manualId": 40
+  },
+  {
+    "id": 5,
+    "topId": null,
+    "title": "Test Ana Sayfa",
+    "icon": "tabler-smart-home",
+    "targetPath": "dashboard-test",
+    "manualId": 50
+  },
+  {
+    "id": 6,
+    "topId": null,
+    "title": "Planning",
+    "icon": "tabler-calendar",
+    "targetPath": "planning-planning",
+    "manualId": 60
+  },
+  {
+    "id": 7,
+    "topId": null,
+    "title": "Work Order",
+    "icon": "tabler-file-time",
+    "targetPath": "work-order-list",
+    "manualId": 70
+  },
+  {
+    "id": 8,
+    "topId": null,
+    "title": "Settings",
+    "icon": "tabler-settings",
+    "targetPath": null,
+    "manualId": 80
+  },
+  {
+    "id": 9,
+    "topId": 8,
+    "title": "Roles",
+    "icon": "tabler-user-circle",
+    "targetPath": "settings-role",
+    "manualId": 90
+  },
+  {
+    "id": 10,
+    "topId": 8,
+    "title": "User",
+    "icon": "tabler-user",
+    "targetPath": "settings-user",
+    "manualId": 100
+  },
+  {
+    "id": 11,
+    "topId": 8,
+    "title": "Rest Cause",
+    "icon": "tabler-clock-hour-1",
+    "targetPath": "settings-rest-cause",
+    "manualId": 110
+  },
+  {
+    "id": 12,
+    "topId": 8,
+    "title": "Customer",
+    "icon": "tabler-users",
+    "targetPath": "settings-customer",
+    "manualId": 120
+  },
+  {
+    "id": 13,
+    "topId": 8,
+    "title": "Route",
+    "icon": "tabler-route",
+    "targetPath": "settings-route",
+    "manualId": 130
+  },
+  {
+    "id": 14,
+    "topId": 8,
+    "title": "Route Template",
+    "icon": "tabler-template",
+    "targetPath": "settings-template",
+    "manualId": 140
+  },
+  {
+    "id": 15,
+    "topId": 8,
+    "title": "Equipment",
+    "icon": "tabler-tools",
+    "targetPath": "settings-equipment",
+    "manualId": 150
+  },
+  {
+    "id": 16,
+    "topId": 8,
+    "title": "Reference Documents",
+    "icon": "tabler-files",
+    "targetPath": "settings-documents",
+    "manualId": 160
+  },
+  {
+    "id": 17,
+    "topId": 8,
+    "title": "Quality Control Criteria",
+    "icon": "tabler-settings-check",
+    "targetPath": "settings-control-criteria",
+    "manualId": 170
+  },
+  {
+    "id": 18,
+    "topId": 8,
+    "title": "Shift",
+    "icon": "tabler-clock-hour-1",
+    "targetPath": "settings-shift",
+    "manualId": 180
+  },
+  {
+    "id": 19,
+    "topId": 8,
+    "title": "Machine",
+    "icon": "tabler-device-desktop-cog",
+    "targetPath": "settings-machine",
+    "manualId": 190
+  },
+  {
+    "id": 20,
+    "topId": 8,
+    "title": "Warehouse",
+    "icon": "tabler-building-warehouse",
+    "targetPath": "settings-warehouse",
+    "manualId": 200
+  },
+  {
+    "id": 21,
+    "topId": 8,
+    "title": "Line",
+    "icon": "tabler-line",
+    "targetPath": "settings-line",
+    "manualId": 210
+  },
+  {
+    "id": 22,
+    "topId": null,
+    "title": "Teslimat Ana Sayfa",
+    "icon": "tabler-smart-home",
+    "targetPath": "dashboard-teslimat",
+    "manualId": 51
+  }
+]

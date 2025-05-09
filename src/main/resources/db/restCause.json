@@ -1,0 +1,13 @@
+[
+  {
+    "code": "Z001",
+    "name": "DURDUR VE GÖNDER",
+    "isMandatory": true
+  },
+
+  {
+    "code": "Z002",
+    "name": "BİTİR",
+    "isMandatory": true
+  }
+]
